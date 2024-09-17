@@ -10,6 +10,7 @@ This was my initial thought process: txt files --> main.py + payload.json --> in
 
 the curl command is in running.py file and the results are also there (both of these are comments at the bottom) 
 
+\\  website problem: On phones, atleast Iphones, i noticed that text was being cutoff when reading through the somalab website. I have attached a pic in the repo itself and imo its important info being cutoff and so just wanted to bring it to your notice. from what i know about webflow, i think it might be the breakpoints for mobile devices that would need to be toggled with it fix it I assume. Hope that helps. 
 
 
 ---------------
