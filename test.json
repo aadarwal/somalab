@@ -1,0 +1,14 @@
+{
+  "patient_background": "35-year-old patient, vaccine-hesitant",
+  "conversation_history": [
+    {
+      "speaker": "Patient",
+      "text": "I'm not sure about getting the COVID vaccine."
+    },
+    {
+      "speaker": "Doctor",
+      "text": "I understand you have concerns. What are your main worries?"
+    }
+  ],
+  "doctor_statement": "You should really consider taking the COVID-19 vaccine."
+}
